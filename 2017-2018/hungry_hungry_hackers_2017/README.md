@@ -1,6 +1,6 @@
 # Hungry Hungry Hackers 2017
 
-## Host Group: Home Depot and GTRI
+## Host Group: The Home Depot and GTRI
 
 ### CTFTime
 
