@@ -4,7 +4,7 @@
 
 *CTF*: Hungry Hungry Hackers 2017
 
-*Category*: RE
+*Category*: Pwn
 
 *Point Value*: Can't Remember. 100?
 
